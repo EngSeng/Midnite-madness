@@ -1,0 +1,10 @@
+2018-02-11 16:52:04,918 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-9 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-02-11 16:52:04,927 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-9 - Application started (Dev)
+2018-02-11 16:52:10,030 [TRACE] from v1.post.PostActionBuilder in application-akka.actor.default-dispatcher-5 - invokeBlock: 
+2018-02-11 16:52:10,040 [TRACE] from v1.post.PostController in application-akka.actor.default-dispatcher-5 - index: 
+2018-02-11 16:52:10,053 [TRACE] from v1.post.PostRepositoryImpl in application-repository.dispatcher-9 - list: 

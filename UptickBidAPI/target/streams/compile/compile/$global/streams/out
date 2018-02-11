@@ -1,0 +1,7 @@
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\engseng\Documents\Alicloud\play-scala-rest-api-example\play-scala-rest-api-example\conf\routes: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\engseng\Documents\Alicloud\play-scala-rest-api-example\play-scala-rest-api-example\conf\routes: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\engseng\Documents\Alicloud\play-scala-rest-api-example\play-scala-rest-api-example\conf\routes: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\engseng\Documents\Alicloud\play-scala-rest-api-example\play-scala-rest-api-example\app\views\index.scala.html:1:1: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0m@()[0m
+[0m[[0m[33mwarn[0m] [0m[0m^[0m
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m
