@@ -3,7 +3,7 @@ plugins {
     id 'idea'
     id "com.github.lkishalmi.gatling" version "0.7.1"
 }
-
+apply plugin: 'distribution'
 def playVersion = "2.6.11"
 def scalaVersion = System.getProperty("scala.binary.version", /* default = */ "2.12")
 def gatlingVersion = "2.3.0"
