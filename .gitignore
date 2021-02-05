@@ -1,0 +1,17 @@
+/.idea/aws.xml
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml
+/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml
+/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml
+/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml
+/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_4.xml
+/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml
+/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml
+/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_10.xml
+/.idea/libraries/Maven__org_projectlombok_lombok_1_18_18.xml
+/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml
+/.idea/Midnite-madness.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
